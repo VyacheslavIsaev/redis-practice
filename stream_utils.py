@@ -1,0 +1,1 @@
+DEFAULT_STREAM_NAME="example_stream"
